@@ -1,3 +1,0 @@
-Algorithm
-=========
-Study Algorithm~ 
